@@ -1,0 +1,16 @@
+PODS:
+  - TestinDemo (1.0.0)
+
+DEPENDENCIES:
+  - TestinDemo (from `../TestinDemo/`)
+
+EXTERNAL SOURCES:
+  TestinDemo:
+    :path: "../TestinDemo/"
+
+SPEC CHECKSUMS:
+  TestinDemo: b8626c47485aa03adc917858a760e15e469c6663
+
+PODFILE CHECKSUM: 9d6c072fee53c2bdd4c53c838f74bf3ce079918d
+
+COCOAPODS: 1.8.4
